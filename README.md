@@ -1,0 +1,2 @@
+# titanic_with_KNeighbors
+preproccesssing of titanic dataset and KNeighborsClassifier implementaiton
